@@ -5,6 +5,15 @@
 Retailvine is a web application that helps to manage any retail business end-to-end. It integrates several features to make selling a breeze and unifies all records irrespective of the location to ease administrative decision making.
 ## Official Documentation
 
+## Features
+Inventory Management
+Sales Management
+Purchase Order Managment
+Sell Online & Offline
+Comprehensive Reporting
+Payroll
+
+
 Documentation for the project can be found on the [Systempace website](http://systempace.com/retailvine).
 
 ## Comments
